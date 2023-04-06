@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.tab-list-cards-container {
+  font-family: 'Bree Serif';
+}
+.tab-button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+  color: #7b8794;
+  font-size: 13px;
+  border-bottom: 1px solid #7b8794;
+}
+.active-button {
+  color: #2563eb;
+  border-bottom: 2px solid #2563eb;
+}
